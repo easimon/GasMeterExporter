@@ -1,0 +1,7 @@
+#ifndef H_WIFI_SETTINGS
+#define H_WIFI_SETTINGS
+
+#define WIFI_SSID   "my wifi"
+#define WIFI_PSK    "secretpassword"
+
+#endif
